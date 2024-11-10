@@ -1,4 +1,6 @@
 # 4.Execution_of_NetworkCommands
+# Name : Lokesh M
+# Reg no: 212223230114
 ## AIM :Use of Network commands in Real Time environment
 ## Software : Command Prompt And Network Protocol Analyzer
 ## Procedure: To do this EXPERIMENT- follows these steps:
@@ -40,9 +42,6 @@ This commands includes
 ## NETSTAT
 ![Screenshot 2024-10-16 140112](https://github.com/user-attachments/assets/79c1cb67-e4b0-425a-83e9-ebafa0e93d0f)
 
-## FTP
-![Screenshot 2024-10-16 140203](https://github.com/user-attachments/assets/fcd389e1-6821-4362-a0d6-c574ef226ec4)
-
 ## NSLOOKUP
 ![Screenshot 2024-10-21 154318](https://github.com/user-attachments/assets/3c6e8324-3155-4316-a661-44322e956220)
 
@@ -52,14 +51,16 @@ This commands includes
 ## HOSTNAME
 ![Screenshot 2024-10-21 154933](https://github.com/user-attachments/assets/89be27dd-6acc-48eb-922d-4be1a6d8999e)
 
-## NBTSTAT
-![Screenshot 2024-10-21 154444](https://github.com/user-attachments/assets/648e2306-8e4f-4b9e-b34a-3a07ba26ee38)
+## NETSH
+![image](https://github.com/user-attachments/assets/64546e16-e853-4a87-8de1-93fa6b87b947)
 
 ## ARP
-![Screenshot 2024-10-21 154453](https://github.com/user-attachments/assets/fe082dd6-d8b8-443a-89c4-dbe47306e969)
+![image](https://github.com/user-attachments/assets/66793b9b-d12f-4f8e-b60b-943894960f68)
 
-## SYSTEMINFO
-![Screenshot 2024-10-21 154526](https://github.com/user-attachments/assets/2f11844c-5689-42c4-a61e-6445b67daefa)
+
+## ROUTE 
+![image](https://github.com/user-attachments/assets/422ad8b7-ff6c-4520-ba4e-90dfe6d58f37)
+
 
 
 ## Result
